@@ -1,4 +1,4 @@
-# 🛍️ Customer Segmentation using Machine Learning  
+# 🛍️ Customer Segmentation 
 
 ## 📌 Overview  
 This project demonstrates **Customer Segmentation** using **unsupervised learning techniques**.  
